@@ -1,6 +1,6 @@
 # GoSC 2026 : Intro to the Robius Ecosystem: Makepad, Moly, Robrix & Tooling
 
-This issue briefly introduces several core parts of the Robius ecosystem and provides links for anyone who wants to explore or contribute.
+This README briefly introduces several core parts of the Robius ecosystem and provides links for anyone who wants to explore or contribute.
 
 ---
 
